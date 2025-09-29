@@ -1,4 +1,4 @@
-# iobank – Fullstack Banking Application (Docs)
+# Bank Transcation– Fullstack Banking Application (Docs)
 
 This document provides detailed notes and references for building the **iobank** backend.
 
